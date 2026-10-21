@@ -43,3 +43,6 @@ forge-std = "1.17.0"
 
 [soldeer]
 recursive_deps = false
+
+[rpc_endpoints]
+flare = "${FLARE_RPC_URL}"
