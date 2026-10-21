@@ -1,6 +1,7 @@
 # rain.vats.flare
 
-Flare-specific price oracles for [rain.vats](https://github.com/rainlanguage/rain.vats).
+Flare-specific price oracles for
+[rain.vats](https://github.com/rainlanguage/rain.vats).
 
 `rain.vats` is chain-agnostic and depends on neither Flare nor rainlang. The
 oracles that read Flare's FTSOv2 feeds and Sceptre staked-FLR rate live here

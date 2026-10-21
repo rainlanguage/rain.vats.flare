@@ -2,8 +2,8 @@
 // SPDX-FileCopyrightText: Copyright (c) 2020 Rain Open Source Software Ltd
 pragma solidity =0.8.25;
 
-import {PriceOracleV2} from "rain-vats-0.1.7/src/abstract/PriceOracleV2.sol";
-import {LibSceptreStakedFlare} from "rain-flare-0.1.2/src/lib/sflr/LibSceptreStakedFlare.sol";
+import {PriceOracleV2} from "rain-vats-0.2.7/src/abstract/PriceOracleV2.sol";
+import {LibSceptreStakedFlare} from "rain-flare-0.1.3/src/lib/sflr/LibSceptreStakedFlare.sol";
 
 contract SceptreStakedFlrOracle is PriceOracleV2 {
     /// @inheritdoc PriceOracleV2
