@@ -35,10 +35,10 @@ integrity = "d1a5e360ef066a175c267a83f906f442572957bc99f625747408fa827b3ab87f"
 
 [[dependencies]]
 name = "rain-flare"
-version = "0.1.4"
-url = "https://soldeer-revisions.s3.amazonaws.com/rain-flare/0_1_4_22-10-2026_09:24:48_rain.zip"
-checksum = "90165b84f8111cfbfc6b29039edb636bb6c25179f90553ba74238c8374728cc5"
-integrity = "d9d8ad1a3c9ab7e687f3366bfab11f0764a434bee9e179e7e26606275001a096"
+version = "0.1.5"
+url = "https://soldeer-revisions.s3.amazonaws.com/rain-flare/0_1_5_23-10-2026_10:57:13_rain.zip"
+checksum = "168bb8eec80ed7220f2a783ce1013fd10bb04d11f7b18936b2fb56f441302e48"
+integrity = "427a21c5a1e6dbdb0869f64916d4a20d5f29fb1de579bea403ef11504107316e"
 
 [[dependencies]]
 name = "rain-math-fixedpoint"
