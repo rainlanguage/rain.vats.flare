@@ -3,7 +3,7 @@
 pragma solidity ^0.8.25;
 
 import {IERC20} from "forge-std-1.17.0/src/interfaces/IERC20.sol";
-import {ERC20PriceOracleReceiptVault} from "rain-vats-0.2.7/src/concrete/vault/ERC20PriceOracleReceiptVault.sol";
+import {ERC20PriceOracleReceiptVault} from "rain-vats-0.2.9/src/concrete/vault/ERC20PriceOracleReceiptVault.sol";
 import {LibFork} from "rain-flare-0.1.4/src/../test/fork/LibFork.sol";
 import {
     LibFixedPointDecimalArithmeticOpenZeppelin,

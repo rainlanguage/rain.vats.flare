@@ -28,12 +28,12 @@ remappings = [
 # (ERC20PriceOracleReceiptVault). The rest mirror rain-vats's own set because
 # compiling the vault pulled in from rain-vats requires its transitive imports
 # to resolve here too.
-"rain-vats" = "0.2.7"
+"rain-vats" = "0.2.9"
 forge-std = "1.17.0"
 "@openzeppelin-contracts" = "5.7.0"
 "@openzeppelin-contracts-upgradeable" = "5.7.0"
 "rain-extrospection" = "0.1.14"
-"rain-factory" = "0.2.4"
+"rain-factory" = "0.2.5"
 "rain-flare" = "0.1.4"
 "rain-math-fixedpoint" = "0.2.2"
 "rain-math-float" = "0.3.10"
