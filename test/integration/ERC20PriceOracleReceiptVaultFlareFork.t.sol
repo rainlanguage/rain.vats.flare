@@ -3,9 +3,9 @@
 pragma solidity =0.8.25;
 
 import {Test} from "forge-std-1.17.0/src/Test.sol";
-import {ERC20PriceOracleReceiptVault} from "rain-vats-0.2.9/src/concrete/vault/ERC20PriceOracleReceiptVault.sol";
+import {ERC20PriceOracleReceiptVault} from "rain-vats-0.2.12/src/concrete/vault/ERC20PriceOracleReceiptVault.sol";
 import {LibERC20PriceOracleReceiptVaultFork} from "../lib/LibERC20PriceOracleReceiptVaultFork.sol";
-import {SFLR_CONTRACT} from "rain-flare-0.1.5/src/lib/sflr/LibSceptreStakedFlare.sol";
+import {SFLR_CONTRACT} from "rain-flare-0.1.6/src/lib/sflr/LibSceptreStakedFlare.sol";
 import {
     LibFixedPointDecimalArithmeticOpenZeppelin,
     Math
