@@ -2,8 +2,8 @@
 // SPDX-FileCopyrightText: Copyright (c) 2020 Rain Open Source Software Ltd
 pragma solidity =0.8.25;
 
-import {PriceOracleV2} from "rain-vats-0.2.22/src/abstract/PriceOracleV2.sol";
-import {LibFtsoV2LTS} from "rain-flare-0.1.8/src/lib/lts/LibFtsoV2LTS.sol";
+import {PriceOracleV2} from "rain-vats-0.2.24/src/abstract/PriceOracleV2.sol";
+import {LibFtsoV2LTS} from "rain-flare-0.1.10/src/lib/lts/LibFtsoV2LTS.sol";
 
 //forge-lint: disable-next-line(pascal-case-struct)
 struct FtsoV2LTSFeedOracleConfig {
